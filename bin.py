@@ -9,7 +9,7 @@
 # This code uses datatime/os, which is licensed under the Python Software Foundation License.
 # See the "https://github.com/python-pillow/Pillow/blob/main/LICENSE" access: 18.08.2024 | 20:23| for details.
 # See the "https://docs.python.org/3/license.html" access: 18.08.2024 | 20:23| for details.
-# This code in the bin.py file except pillow and datatime/os is for everyone, just make sure you follow the HPND and Python Software Foundation License.
+# Just make sure you follow the HPND and Python Software Foundation License.
 
 #-------------------------------------- # How to use # -------------------------------------------#
 # 1. Take your PNG file to folder and rename to "input.png".                                      #
