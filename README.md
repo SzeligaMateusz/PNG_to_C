@@ -9,4 +9,4 @@
 4. Copy the contents of the file to your project.
 
 > [!WARNING]
-> Just make sure you follow the License (look license file ).                 
+> Just make sure you follow the License (look license file).                 
