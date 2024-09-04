@@ -1,4 +1,4 @@
-1. Take your PNG file to folder and rename to:  'input.png'
+1. Take your PNG file to folder and rename to:  ' input.png '
                            
 2. Compile the program 
 (!)_You must have a Pillow ("pip install pillow")_(!)
