@@ -11,4 +11,7 @@
 4. Copy the contents of the file to your project.
 
 > [!WARNING]
-> Just make sure you follow the License (look license file).                 
+> Just make sure you follow the License (look license file). 
+
+> [!IMPORTANT]
+> This code resizes the image to 240x240px and generates rgb565 data.            
